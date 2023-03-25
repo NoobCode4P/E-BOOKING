@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: Server.Server
+Class-Path: json-20140107.jar mssql-jdbc-10.2.1.jre17.jar mssql-jdbc-10.
+ 2.1.jre17.jar
+
